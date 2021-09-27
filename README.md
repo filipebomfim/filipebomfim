@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/filipebomfim">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=filipebomfim&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  <img height="205em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipebomfim&layout=compact&langs_count=7&theme=slateorange"/>
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=filipebomfim&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipebomfim&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
   
 <div style="display: inline_block"><br>
