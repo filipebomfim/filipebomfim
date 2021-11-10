@@ -1,7 +1,7 @@
 ### Olá! Eu sou Filipe Bomfim 
 
 - 🎓 Recém formado em Sistemas de Informação
-- 🌱 Estudando Desenvolvimento Back-end, com PHP e Laravel
+- 🌱 Estudando Desenvolvimento Full Stack, com foco atualmente em PHP e Laravel
 - 👯 Buscando novos desafios profissionais
 
 <!--
