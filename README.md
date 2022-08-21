@@ -1,8 +1,8 @@
 ### Olá! Eu sou Filipe Bomfim 
 
-- 🎓 Recém formado em Sistemas de Informação
-- 🌱 Estudando Desenvolvimento Full Stack, com foco atualmente em PHP e Laravel
-- 👯 Buscando novos desafios profissionais
+- 🎓 Formado em Sistemas de Informação
+- 👯 Atualmente, Desenvolvedor Full Stack Jr. na Bahiatursa
+- 🌱 Diariamente dando continuidade aos estudos no Desenvolvimento Full Stack, com foco em PHP e Laravel
 
 <!--
 **filipebomfim/filipebomfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
