@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
   <a href="https://github.com/filipebomfim">
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipebomfim&layout=compact&langs_count=7&theme=slateorange"/>
     
  <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
