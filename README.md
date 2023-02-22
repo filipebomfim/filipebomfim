@@ -1,7 +1,7 @@
 ### Olá! Eu sou Filipe Bomfim 
 
 - 🧑🏽‍🎓 Formado em Sistemas de Informação
-- 👨🏽‍💻 Desenvolvedor Full Stack Jr.
+- 👨🏽‍💻 Desenvolvedor Back-end Jr.
 - 👨🏽‍🏫 Diariamente dando continuidade aos estudos no Desenvolvimento Full Stack, com foco em PHP, Laravel e tecnologias relacionadas
 
 <!--
