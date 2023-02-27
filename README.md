@@ -2,7 +2,7 @@
 
 - 🧑🏽‍🎓 Formado em Sistemas de Informação
 - 👨🏽‍💻 Desenvolvedor Back-end Jr.
-- 👨🏽‍🏫 Diariamente dando continuidade aos estudos no Desenvolvimento Full Stack, com foco em PHP, Laravel e tecnologias relacionadas
+- 👨🏽‍🏫 Diariamente dando continuidade aos estudos no Desenvolvimento Full Stack, com foco em PHP, Laravel, Python e tecnologias relacionadas
 
 <!--
 **filipebomfim/filipebomfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
